@@ -1,0 +1,49 @@
+{
+  "latitude": 43.6,
+  "longitude": 1.44,
+  "timezone": "Europe/Paris",
+  "daily_units": {
+    "time": "iso8601",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "precipitation_sum": "mm"
+  },
+  "daily": {
+    "time": [
+      "2026-10-01",
+      "2026-10-02",
+      "2026-10-03",
+      "2026-10-04",
+      "2026-10-05",
+      "2026-10-06",
+      "2026-10-07"
+    ],
+    "temperature_2m_max": [
+      22.1,
+      21.4,
+      19.8,
+      18.2,
+      20.5,
+      23.0,
+      21.7
+    ],
+    "temperature_2m_min": [
+      11.2,
+      12.0,
+      10.5,
+      9.1,
+      9.8,
+      12.4,
+      13.0
+    ],
+    "precipitation_sum": [
+      0.0,
+      0.0,
+      4.2,
+      12.6,
+      0.8,
+      0.0,
+      0.0
+    ]
+  }
+}
